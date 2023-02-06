@@ -51,8 +51,8 @@ function App() {
               <Route path="/Beans" element={<BeansPage />} />
               <Route path="/Catalist" element={<CatalistPage />} />
               <Route path="/Contact" element={<ContactPage />} />
-              <Route path="/JimCo" element={<JimCoPage />} />
               <Route path="/Demos" element={<DemosPage />} />
+              <Route path="/JimCo" element={<JimCoPage />} />
               <Route path="/Privacy" element={<PrivacyPage />} />
               <Route path="/Tech" element={<TechPage />} />
               <Route path="*" element={<NotFound />} />
