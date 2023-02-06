@@ -1,0 +1,25 @@
+.cu__heading {
+  margin-bottom: 2rem;
+  font-size: 150%;
+}
+
+.cu__items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-rows: auto;
+  gap: 1rem;
+}
+
+.cu__item {
+  border: 1px solid var(--dark-color);
+  padding: 1rem;
+}
+
+.cu__label {
+  font-style: italic;
+  font-family: "Roboto Slab", "Times New Roman", serif;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  text-align: center;
+  border-bottom: 1px dotted var(--black-color);
+}
