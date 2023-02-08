@@ -37,7 +37,6 @@ nav {
   transform: scale(1, 0);
   transform-origin: top;
   transition: transform 400ms ease-in-out;
-  z-index: 1000;
 }
 
 nav ul {
