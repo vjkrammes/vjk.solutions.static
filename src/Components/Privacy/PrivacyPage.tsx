@@ -530,11 +530,11 @@ export default function PrivacyPage() {
             <p>
               By visiting this page on our website:{" "}
               <a
-                href="https://vjk.solutions"
+                href="https://vjk.solutions/Contact"
                 rel="external nofollow noopener noreferrer"
                 target="_blank"
               >
-                https://vjk.solutions
+                https://vjk.solutions/Contact
               </a>
             </p>
           </li>
